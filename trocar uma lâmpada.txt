@@ -1,0 +1,7 @@
+trocar uma lâmpada
+
+indentificar a lampada queimada
+comprar outra lâmpada
+retirar a lâmpada queimada
+colocar a outra lâmpada
+testar a lâmpada nova
